@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "casperjs example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suleyman Vardar <admin@vardars.com> (http://vardars.com)",
+  "license": "ISC",
+  "dependencies": {
+    "casperjs": "^1.1.0-beta5",
+    "phantomjs-prebuilt": "^2.1.14"
+  }
+}
