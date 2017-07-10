@@ -1,7 +1,7 @@
-## Usage
+# Usage
 
-# First Use
+## First Use
 `npm install`
 
-# Start casperjs with phantomjs
-start-casper index.js
+## Start casperjs with phantomjs
+`start-casper index.js`
